@@ -62,9 +62,10 @@ body {
 .img-champ{
     width: 67px;
     height: 66px;
-    background: url("img/Darius.png");
+    background: url("img/Darius-html.jpg.png");
     flex: none;
     flex-grow: 0;
+    border-radius: 6px;
 }
 
 .time{
